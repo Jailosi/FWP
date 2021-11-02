@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My first webpage</title>
+  </head>
+  <meta charset="UTF-8">
+  <body>
+    <h1>About me</h1>
+    <img id="image" src="https://www.preface.ai/blog/wp-content/uploads/2021/05/photo-1610563166150-b34df4f3bcd6-768x575.jpeg" alt="leaning" width="350">
+    <p>Three facts about me: </p>
+    <ul>
+      <li class= "list">I went to school for Information Technology.</li>
+      <li class= "list">I am teaching myself how to code.</li>
+      <li class= "list">I want to become a software developer.</li>
+    </ul>
+    <p>Here's the <a href="www.Losi'scoding.info"> link</a> to my website.
+  </body>
+</html>
